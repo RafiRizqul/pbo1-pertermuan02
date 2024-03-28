@@ -6,5 +6,6 @@ public class InpurOutput{
 		String nama;
 		System.out.print("Masukkan nama anda: ");
 		nama = scanner.nextLine();
+		System.out.println("Hai. "+nama);
 	}
 }
